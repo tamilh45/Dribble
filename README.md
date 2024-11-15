@@ -133,13 +133,6 @@ Publish the website in the LocalHost.
         </div>
     </section>
 
-    <!-- Footer -->
-    <footer class="bg-light text-center py-4">
-        <div class="container">
-            <p>&copy; 2024 | Designed by V DIVYASHREE</p>
-        </div>
-    </footer>
-
     <!-- Bootstrap JavaScript Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
@@ -168,7 +161,7 @@ header{
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/d3d074f6-94de-44c2-b6bd-3a4246051116)
+![386055525-d3d074f6-94de-44c2-b6bd-3a4246051116](https://github.com/user-attachments/assets/36671bbd-f41e-4a8f-a8ef-2b7e123b1c3b)
 
 
 ## RESULT:
